@@ -1,0 +1,20 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #33001b,#ff0084);
+}
+
+.container{
+    background-color: rgb(255, 2555, 255,0.2);
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 10px rgb(0,0,0,0.2);
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
